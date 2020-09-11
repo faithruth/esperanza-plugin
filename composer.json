@@ -1,0 +1,9 @@
+{
+  "name": "uap/website",
+  "description": "Addon for elementor custom widgets",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7",
+    "eftec/bladeone": "^3.30"
+  }
+}
